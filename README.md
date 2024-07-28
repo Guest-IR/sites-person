@@ -1,3 +1,3 @@
 # This is my personal file
 
-[demo personal-sites](https://guest-ir.github.io/sites-person/)
+for seeing more you can visit my personal site [demo personal-sites](https://guest-ir.github.io/sites-person/)
