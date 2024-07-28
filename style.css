@@ -4,3 +4,7 @@ body{
     align-items: center;
     overflow: hidden;
 }
+h1{
+    color:rebeccapurple;
+    text-align: center;
+}
